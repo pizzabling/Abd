@@ -1,0 +1,303 @@
+final JCheckBox checkBox1For5 = new JCheckBox("<html>При составлении объемов работ на оборудование и монтаж <br>" +
+            "котельных с двумя теплоносителями или с разными типами котлов - 1,2</html>");
+    final JCheckBox checkBox2For5 = new JCheckBox("<html>При установке в котельной более шести секционных котлов <br>" +
+            "и более четырех жаротрубных котлов на каждый дополнительный котел - 1,1</html>");
+
+    final JCheckBox checkBox1For6 = new JCheckBox("<html>При сложной конфигурации здания (круглое, полукруглое и др.) -  1,2</html>");
+    final JCheckBox checkBox2For6 = new JCheckBox("<html>При составлении объемов работ для кирпичных<br>" +
+            "зданий 12 этажей и выше - 1,5</html>");
+    final JCheckBox checkBox3For6 = new JCheckBox("<html>Составление объемов работ по чертежам технического проекта - 0,8</html>");
+    final JCheckBox checkBox4For6 = new JCheckBox("<html>Составление объемов работ при разработке типовых проектов - 1,6</html>");
+    final JCheckBox checkBox5For6 = new JCheckBox("<html>При применении (привязке) типовых проектов<br>" +
+            "жилых и гражданских зданий с техническим подпольем - 0,9</html>");
+    final JCheckBox checkBox6For6 = new JCheckBox("<html>При применении (привязке) типовых проектов<br>" +
+            "жилых и гражданских зданий без подвалов и технических подполий - 0,8</html>");
+
+    final JCheckBox checkBox1For8 = new JCheckBox("<html>Здания со сложным архитектурно-планировочным решением - 1.2</html>");
+    final JCheckBox checkBox2For8 = new JCheckBox("<html>Устройство в здании двухзонного водопровода - 1.2</html>");
+    final JCheckBox checkBox3For8 = new JCheckBox("<html>Реконструкция сетей в существующих зданиях - 1.25</html>");
+    final JCheckBox checkBox4For8 = new JCheckBox("<html>при наличии подвалов - 0.45</html>");
+    final JCheckBox checkBox5For8 = new JCheckBox("<html>при отсутствии подвалов - 0.3</html>");
+    final JCheckBox checkBox6For8 = new JCheckBox("<html>при изменении планировки подвала и первого этажа - 0.8</html>");
+    final JCheckBox checkBox7For8 = new JCheckBox("<html>При количестве сетей водопровода и<br>" +
+            "канализации более четырех каждая сеть сверх четырех - 0.25</html>");
+    final JCheckBox checkBox8For8 = new JCheckBox("<html>Проектные работы по водостокам , пылеудалению,<br>" +
+            " хладоснабжению, обратному водоснабжению, специальным системам пожаротушения и<br>" +
+            " газооборудованию - 0.3</html>");
+
+    final JCheckBox checkBox1For9 = new JCheckBox("<html>Составление объемов работ при разработке типовых проектов - 1,6</html>");
+
+    final JCheckBox checkBox1For10 = new JCheckBox("<html>При составлении объемов работ внутренних водостоков и газооборудования - 0,1</html>");
+
+
+    final JCheckBox checkBox1For11 = new JCheckBox("<html>Стадия технического проекта - 0,4</html>");
+    final JCheckBox checkBox2For11 = new JCheckBox("<html>Самостоятельные проекты санитарно-технических устройств<br> " +
+            " для помещений магазинов, столовых, библиотек, прачечных и т. п., расположенных в жилых зданиях,<br>" +
+            " нормируются дополнительно по объему и категории сложности проектирования этих помещений - 0,8</html>");
+    final JCheckBox checkBox3For11 = new JCheckBox("<html>Здания со сложным архитектурно-планировочным решением - 1,2</html>");
+    final JCheckBox checkBox4For11 = new JCheckBox("<html>Реконструкция систем отопления и вентиляции существующих зданий - 1,3</html>");
+    final JCheckBox checkBox5For11 = new JCheckBox("<html>Устройство в одном здании нескольких самостоятельных систем<br>" +
+            "отопления по зонам и по странам светa - 1,2</html>");
+    final JCheckBox checkBox6For11 = new JCheckBox("<html>Театры с количеством мест более 800 - 1,5</html>");
+    final JCheckBox checkBox7For11 = new JCheckBox("<html>без изменения систем - 0,2</html>");
+    final JCheckBox checkBox8For11 = new JCheckBox("<html>с переработкой систем - 0,5</html>");
+    final JCheckBox checkBox9For11 = new JCheckBox("<html>с испарительным охлаждением воздуха - 1,6</html>");
+    final JCheckBox checkBox10For11 = new JCheckBox("<html>с политропическим охлаждением воздуха - 1,8</html>");
+    final JCheckBox checkBox11For11 = new JCheckBox("<html>При проектировании двухтрубных систем отопления к работам<br>" +
+            " V разряда - 0,7</html>");
+
+    final JCheckBox checkBox1For14 = new JCheckBox("<html>При выполнении проекта вертикальной планировки в масштабе 1 :1000 - 0.7</html>");
+    final JCheckBox checkBox2For14 = new JCheckBox("<html>При выполнении плана высотного решения (организации рельефа) без<br>" +
+            "проектных (красных) горизонталей методом проектных отметок,<br>" +
+            "профилей или другим методом - 0.6</html>");
+    final JCheckBox checkBox3For14 = new JCheckBox("<html>При выполнении в карандаше плана застройки с элементами<br>" +
+            "благоустройства на готовой геоподоснове, пригодного к размножению<br>" +
+            "без обводки тушью - 0.8</html>");
+
+    final JCheckBox checkBox1For15 = new JCheckBox("<html> При выполнении проекта вертикальной планировки <br>" +
+            "в масштабе 1 : 500 - 1.5</html>");
+    final JCheckBox checkBox2For15 = new JCheckBox("<html> При выполнении проекта вертикальной планировки <br>" +
+            "в масштабе 1 : 2000 - 0.7</html>");
+    final JCheckBox checkBox3For15 = new JCheckBox("<html>При выполнении в карандаше плана застройки с элементами<br>" +
+            " благоустройства на готовой геоподоснове, пригодного к размножению без обводки тушью - 0.8</html>");
+
+    final JCheckBox checkBox1For16 = new JCheckBox("<html>500м²</html>");
+    final JCheckBox checkBox2For16 = new JCheckBox("<html>700м²</html>");
+    final JCheckBox checkBox3For16 = new JCheckBox("<html>1000м²</html>");
+    final JCheckBox checkBox4For16 = new JCheckBox("<html>2000м²</html>");
+    final JCheckBox checkBox5For16 = new JCheckBox("<html>5000м²</html>");
+    final JCheckBox checkBox6For16 = new JCheckBox("<html>более 5000м²</html>");
+
+    final JCheckBox checkBox1For17 = new JCheckBox("<html>При разработке планов этажей со стенами - 1,1</html>");
+    final JCheckBox checkBox2For17 = new JCheckBox("<html>При разработке монтажных планов - 1,2</html>");
+    final JCheckBox checkBox3For17 = new JCheckBox("<html>При разработке планов подвала - 1,5</html>");
+    final JCheckBox checkBox4For17 = new JCheckBox("<html>При разработке схем плановых жилых зданий - 0,3</html>");
+
+    final JCheckBox checkBox1For20 = new JCheckBox("<html>500м²</html>");
+    final JCheckBox checkBox2For20 = new JCheckBox("<html>700м²</html>");
+    final JCheckBox checkBox3For20 = new JCheckBox("<html>1000м²</html>");
+    final JCheckBox checkBox4For20 = new JCheckBox("<html>2000м²</html>");
+    final JCheckBox checkBox5For20 = new JCheckBox("<html>5000м²</html>");
+    final JCheckBox checkBox6For20 = new JCheckBox("<html>более 5000м²</html>");
+
+    final JCheckBox checkBox1For21 = new JCheckBox("<html>При разработке фасадов жилых зданий с использованием<br>" +
+            " первых этажей для торговли, общественного питания и т.п. - 1.2</html>");
+    final JCheckBox checkBox2For21 = new JCheckBox("<html>при разработке фасадов при надстройке или<br>" +
+            "пристройке зданий - 1.1</html>");
+
+    final JCheckBox checkBox1For23 = new JCheckBox("<html>При разработке фасадов жилых зданий с использованием<br>" +
+            " первых этажей для торговли, общественного питания и т.п. - 1.2</html>");
+    final JCheckBox checkBox2For23 = new JCheckBox("<html>при разработке фасадов при надстройке или<br>" +
+            "пристройке зданий - 1.1</html>");
+
+    final JCheckBox checkBox1For24 = new JCheckBox("<html>500м²</html>");
+    final JCheckBox checkBox2For24 = new JCheckBox("<html>700м²</html>");
+    final JCheckBox checkBox3For24 = new JCheckBox("<html>1000м²</html>");
+    final JCheckBox checkBox4For24 = new JCheckBox("<html>2000м²</html>");
+    final JCheckBox checkBox5For24 = new JCheckBox("<html>5000м²</html>");
+    final JCheckBox checkBox6For24 = new JCheckBox("<html>более 5000м²</html>");
+    final JCheckBox checkBox7For24 = new JCheckBox("<html>1:200 - 0,3</html>");
+    final JCheckBox checkBox8For24 = new JCheckBox("<html>1:400 - 0,2</html>");
+
+    final JCheckBox checkBox1For26 = new JCheckBox("<html>1:100 - 0,5</html>");
+    final JCheckBox checkBox2For26 = new JCheckBox("<html>1:200 - 0,3</html>");
+    final JCheckBox checkBox3For26 = new JCheckBox("<html>1:400 - 0,2</html>");
+
+    final JCheckBox checkBox1For28 = new JCheckBox("<html>При наличии в одном элементе нескольких архитектурных <br>" +
+            "деталей или на одном чертеже нескольких различных шаблонов - 0.6 </html>");
+
+    final JCheckBox checkBox1For29 = new JCheckBox("<html>При выполнении только общих видов и разрезов - 0.3</html>");
+    final JCheckBox checkBox2For29 = new JCheckBox("<html>При выполнении только чертежей деталей - 0.5</html>");
+    final JCheckBox checkBox3For29 = new JCheckBox("<html>При выполнении окон и фрамуг с одинарными переплетами - 0.7</html>");
+    final JCheckBox checkBox4For29 = new JCheckBox("<html>При выполнении окон и фрамуг с тройными переплетами - 1.2</html>");
+
+    final JCheckBox checkBox1For30 = new JCheckBox("<html>При расчете вариантов для различных климатических зон или различных<br>" +
+            "сопротивлений грунтов - 0.4 </html>");
+    final JCheckBox checkBox2For30 = new JCheckBox("<html> Расчеты свайных оснований нормируются по нормам № 274 и 275 - 1.1</html>");
+
+    final JCheckBox checkBox1For32 = new JCheckBox("<html>Расчеты армокаменных конструкций нормируются по норме № 277 - 1,2</html>");
+
+    final JCheckBox checkBox1For34 = new JCheckBox("<html>Расчет сборных железобетонных ферм нормируется по нормам 293 или 294 - 1.3,</html>");
+
+    final JCheckBox checkBox1For36 = new JCheckBox("<html>Разработка чертежей монолитных фундаментов нормируется по норме № 302—304 - 0,8</html>");
+    final JCheckBox checkBox2For36 = new JCheckBox("<html>Разработка плана забивки свай - 1,3</html>");
+    final JCheckBox checkBox3For36 = new JCheckBox("<html>планов ростверков с сечениями — 1,1</html>");
+    final JCheckBox checkBox4For36 = new JCheckBox("<html>план земляных работ или план подпольных каналов — 0,2</html>");
+    final JCheckBox checkBox5For36 = new JCheckBox("<html>при совмещении плана подпольных каналов с планом фундаментов — 1,1</html>");
+    final JCheckBox checkBox6For36 = new JCheckBox("<html>нормируется разработка плана раскладки карнизных плит или перемычек - 0,5</html>");
+    final JCheckBox checkBox7For36 = new JCheckBox("<html>плана" +
+            "раскладки перемычек, совмещенного с планом перекрытий — 1,2</html>");
+    final JCheckBox checkBox8For36 = new JCheckBox("<html>Нормами №306 и №307 предусматривается разработка плана и разреза<br>" +
+            " железобетонных или деревянных стропил из элементов заводского изготовления. При разработке плана и разреза стропил<br>" +
+            " из пиломатериалов или бревен - 1,2</html>");
+
+    final JCheckBox checkBox9For36 = new JCheckBox("<html>200м² - 1,8</html>");
+    final JCheckBox checkBox10For36 = new JCheckBox("<html>500м² - 1,3</html>");
+    final JCheckBox checkBox11For36 = new JCheckBox("<html>1000м² - 1</html>");
+    final JCheckBox checkBox12For36 = new JCheckBox("<html>2000м² - 0,9</html>");
+    final JCheckBox checkBox13For36 = new JCheckBox("<html>5000м² - 0,8</html>");
+
+    final JCheckBox checkBox1For37 = new JCheckBox("<html>Разработка сборных каталожных элементов для альбомов - 1,3</html>");
+
+    final JCheckBox checkBox1For38 = new JCheckBox("<html>При разработке чертежей клепаных или болтовых узлов к норме №313 - 1,2 </html>");
+    final JCheckBox checkBox2For38 = new JCheckBox("<html>При разработке чертежей узлов и деталей из алюминиевых сплавов <br>" +
+            "или пластических масс к нормам № 313 и 314 - 1,2</html>");
+    final JCheckBox checkBox3For38 = new JCheckBox("<html>Чертежи монтажных схем, узлов и сечений марки КМД индивидуальных<br>" +
+            " проектов могут нормироваться по нормам № 311 и 313 - 0,7</html>");
+
+    final JCheckBox checkBox1For40 = new JCheckBox("<html>При разработке рабочих чертежей лестниц из сборных железобетонных" +
+            " элементов по действующим каталогам - 0,8</html>");
+    final JCheckBox checkBox2For40 = new JCheckBox("<html>При разработке рабочих чертежей железобетонных " +
+            "монолитных пространственных лестниц №320 - 1,2</html>");
+
+    final JCheckBox checkBox1For42 = new JCheckBox("<html>К нормам № 223—227 при выполнении отмывки или отделки пером<br>" +
+            " вместо покраски — 1,2</html>");
+    final JCheckBox checkBox2For42 = new JCheckBox("<html>К нормам № 223—227 построения без отмывки — 0,6</html>");
+    final JCheckBox checkBox3For42 = new JCheckBox("<html>0,125 листа - 2</html>");
+    final JCheckBox checkBox4For42 = new JCheckBox("<html>0,25 - 1.8</html>");
+    final JCheckBox checkBox5For42 = new JCheckBox("<html>0.5 - 1.4</html>");
+    final JCheckBox checkBox6For42 = new JCheckBox("<html>2 - 0.8</html>");
+    final JCheckBox checkBox7For42 = new JCheckBox("<html>3 - 0.7</html>");
+    final JCheckBox checkBox8For42 = new JCheckBox("<html>4 - 0.6</html>");
+    final JCheckBox checkBox9For42 = new JCheckBox("<html>К нормам № 228 и 229 при иллюминировании чертежей цветными<br>" +
+            " карандашами — 0,5;</html>");
+    final JCheckBox checkBox10For42 = new JCheckBox("<html>При выполнении разверток стен или перспектив с мелкочлененными<br>" +
+            " элементами или сложными кровлями — 1,3</html>");
+
+    final JCheckBox checkBox1For4 = new JCheckBox("<html>При сложной конфигурации здания (круглое, полукруглое и др.) - 1,2</html>");
+    final JCheckBox checkBox2For4 = new JCheckBox("<html>При составлении объемов работ для кирпичных зданий 12 этажей<br>" +
+            " и выше - 1,5</html>");
+    final JCheckBox checkBox3For4 = new JCheckBox("<html>Составление объемов работ по чертежам технического проекта - 0,8</html>");
+    final JCheckBox checkBox4For4 = new JCheckBox("<html>Составление объемов работ при разработке типовых проектов - 1,6</html>");
+    final JCheckBox checkBox5For4 = new JCheckBox("<html> При применении (привязке) типовых проектов жилых и гражданских<br>" +
+            " зданий с техническим подпольем - 0,9</html>");
+    final JCheckBox checkBox6For4 = new JCheckBox("<html> При применении (привязке) типовых проектов жилых и гражданских<br>" +
+            " зданий без подвалов и технических подполий — 0,8 </html>");
+    final JCheckBox checkBoxFor4Individual = new JCheckBox("<html>Индивидуальный проект</html>");
+    final JCheckBox checkBoxFor4Binding = new JCheckBox("<html>Проект привязки</html>");
+
+    //Чекбоксы удельного веса
+
+    /*Таблица 1*/
+    final JCheckBox percCheckBox1For1 = new JCheckBox("<html>Перенесение с плана на план</html>");
+    final JCheckBox percCheckBox2For1 = new JCheckBox("<html>Оформление в туши</html>");
+    final JCheckBox percCheckBox3For1 = new JCheckBox("<html>Оформление в красках</html>");
+    final JCheckBox percCheckBox4For1 = new JCheckBox("<html>Оформление в туши</html>");
+    final JCheckBox percCheckBox5For1 = new JCheckBox("<html>Оформление в красках</html>");
+
+    /*Таблица2*/
+    final JCheckBox percCheckBox1For2 = new JCheckBox("<html>Перенесение с плана на план</html>");
+    final JCheckBox percCheckBox2For2 = new JCheckBox("<html>Оформление в туши</html>");
+    final JCheckBox percCheckBox3For2 = new JCheckBox("<html>Оформление в красках</html>");
+    final JCheckBox percCheckBox4For2 = new JCheckBox("<html>Оформление в туши</html>");
+    final JCheckBox percCheckBox5For2 = new JCheckBox("<html>Оформление в красках</html>");
+
+    /*Таблица3*/
+    final JCheckBox percCheckBox1For3 = new JCheckBox("<html>Перенесение с плана на план</html>");
+    final JCheckBox percCheckBox2For3 = new JCheckBox("<html>Оформление в туши</html>");
+    final JCheckBox percCheckBox3For3 = new JCheckBox("<html>Оформление в красках</html>");
+    final JCheckBox percCheckBox4For3 = new JCheckBox("<html>Оформление в туши</html>");
+    final JCheckBox percCheckBox5For3 = new JCheckBox("<html>Оформление в красках</html>");
+
+    /*Таблица5*/
+    final JCheckBox percCheckBox1For12 = new JCheckBox("<html>Графическая подготовка материалов - 11</html>");
+    final JCheckBox percCheckBox2For12 = new JCheckBox("<html>проектирование продольных профилей магистралей и улиц - 6 </html>");
+    final JCheckBox percCheckBox3For12 = new JCheckBox("<html>Составление схемы организации рельефа, вычисление уклонов и <br>" +
+            "расстояний по проездам, выбор дорожных покрытий - 37</html>");
+    final JCheckBox percCheckBox4For12 = new JCheckBox("<html>Подсчет объемов работ и составление пояснительной записк - 8</html>");
+    final JCheckBox percCheckBox5For12 = new JCheckBox("<html>Разработка схемы - 38</html>");
+
+    /*Таблица 6*/
+    final JCheckBox percCheckBox1For15 = new JCheckBox("<html>Выполнение плана застройки со всеми элементами благоустройства<br>" +
+            " по эскизному решению автора проекта - 20</html>");
+    final JCheckBox percCheckBox2For15 = new JCheckBox("<html>План высотного решения в проектных горизонталях сечением 0,2—0,25 м.<br>" +
+            "Вычисление уклонов и расстояний по осям проездов и отметок в переломных точках. Вычисление проектных и черных отметок по <br>" +
+            "углам зданий и сооружений, на хозяйственных, спортивных и игровых площадках, дорожках<br>" +
+            "и тротуарах. Разработка типовых поперечных профилей проездов - 35</html>");
+    final JCheckBox percCheckBox3For15 = new JCheckBox("<html>Картограммы земляных работ с выполнениемвсех графических и<br>" +
+            "счетных работ - 20</html>");
+    final JCheckBox percCheckBox4For15 = new JCheckBox("<html>План дорожных покрытий с подсчетом объемов работ по дорожному<br>" +
+            "благоустройству, с выполнением всех графических и счетных работ - 18</html>");
+    final JCheckBox percCheckBox5For15 = new JCheckBox("<html>Пояснительная записка - 7</html>");
+
+    /*Таблица 7*/
+    final JCheckBox percCheckBox1For14 = new JCheckBox("<html>Выполнение в соответствии с утвержденнымтехническим проектом<br>" +
+            "плана застройки, благоустройства и разбивочного чертежа проекта застройки - 21</html>");
+    final JCheckBox percCheckBox2For14 = new JCheckBox("<html>План высотного решения в проектных (красных) горизонталях сечением<br>" +
+            "через 0,1 м. Вычисление уклонов и расстояний но осям проездов и отметок<br>" +
+            "в переломных точках. Вычисление проектных и черных отметок да углах зданий<br>" +
+            "и сооружений, на хозяйственных, спортивных и игровых площадках, дорожках и<br>" +
+            "тротуарах, оформление поперечных профилей проездов - 47</html>");
+    final JCheckBox percCheckBox3For14 = new JCheckBox("<html>Картограмма земляных работ с выполнениемвсех графических<br>" +
+            "и счетных работ - 10</html>");
+    final JCheckBox percCheckBox4For14 = new JCheckBox("<html>План дорожных покрыта (с разработкой конструкций дорожных<br>" +
+            "покрытий) с подсчетом объемов работ по дорожному благоустройству и выполнением<br>" +
+            "всех графических и счетных работ - 16</html>");
+    final JCheckBox percCheckBox5For14 = new JCheckBox("<html>Пояснительная записка - 6</html>");
+
+    /*Таблица 11*/
+    final JCheckBox percCheckBox1For11 = new JCheckBox("<html>Получение от главного инженера проекта задания и необходимых данных<br>" +
+            "для разработки проекта</html>");
+    final JCheckBox percCheckBox2For11 = new JCheckBox("<html> вентиляционных обменов, выбор вентиляционного и отопительного оборудования,<br>" +
+            "шумоглушителей и других элементов систем, компоновка камер,<br>" +
+            "трассы воздуховодов и трубопроводов и увязка с другими частями<br>" +
+            "проекта</html>");
+    final JCheckBox percCheckBox3For11 = new JCheckBox("<html>Составление основных показателей по проекту (спецификации оборудования,<br>" +
+            "расходов тепла, электроэнергии и т. п.)</html>");
+    final JCheckBox percCheckBox4For11 = new JCheckBox("<html>Выдача материалов для выполнения других частей проекта </html>");
+    final JCheckBox percCheckBox5For11 = new JCheckBox("<html>Составление заказных спецификаций</html>");
+    final JCheckBox percCheckBox6For11 = new JCheckBox("<html>Проверка чертежей, расчетных материалов и выпуск проекта </html>");
+
+    final JCheckBox percCheckBox7For11 = new JCheckBox("<html>Определение коэффициентов теплопередачи, расчеты потерь тепла<br>" +
+            " и нагревательных приборов</html>");
+    final JCheckBox percCheckBox8For11 = new JCheckBox("<html>Расчет трубопроводов систем отопления</html>");
+    final JCheckBox percCheckBox9For11 = new JCheckBox("<html>Расчет воздуховодов, подбор вентиляционных шахт, дефлекторов и т.п.</html>");
+    final JCheckBox percCheckBox10For11 = new JCheckBox("<html>Составление объемов работ (для смет)</html>");
+
+    /*Таблица 44*/
+    final JCheckBox percCheckBox1For7 = new JCheckBox("<html>Получение от руководителя работы задания и<br>" +
+            "необходимых данных для разработки проекта</html>");
+    final JCheckBox percCheckBox2For7 = new JCheckBox("<html>Трассировка внутренних сетей и выбор схемы</html>");
+    final JCheckBox percCheckBox3For7 = new JCheckBox("<html>Выявление расчетных расходов</html>");
+    final JCheckBox percCheckBox4For7 = new JCheckBox("<html>Составление основных показателей по проекту<br>" +
+            "(спецификации оборудования, расходов воды, тепла и т. п.) </html>");
+    final JCheckBox percCheckBox5For7 = new JCheckBox("<html>Выдача материалов для выполнения других<br>" +
+            "частей проекта </html>");
+    final JCheckBox percCheckBox6For7 = new JCheckBox("<html>Проверка чертежей, расчетных материалов и<br>" +
+            "выпуск проекта</html>");
+
+    final JCheckBox percCheckBox7For7 = new JCheckBox("<html>Расчет трубопроводов и отдельных элементов</html>");
+    final JCheckBox percCheckBox8For7 = new JCheckBox("<html>Составление объемов работ (для сметы)</html>");
+
+    /*Таблица 47*/
+    final JCheckBox pecrCheckBox1For8 = new JCheckBox("<html>Получение от руководителя работы задания и необходимых <br>" +
+            "данных для разработки проекта</html>");
+    final JCheckBox pecrCheckBox2For8 = new JCheckBox("<html>Трассировка внутренних сетей</html>");
+    final JCheckBox pecrCheckBox3For8 = new JCheckBox("<html>Подсчет расчетных расходов и площадей стока и определение<br>" +
+            " диаметров трубопроводов</html>");
+    final JCheckBox pecrCheckBox4For8 = new JCheckBox("<html>Составление основных показателей по проекту (спецификации<br>" +
+            " оборудования, расходов воды, количества водопотребителей и т.п.)</html>");
+    pecrCheckBox5For8 = new JCheckBox("<html>Выдача материалов для выполнения других частей проекта</html>");
+    pecrCheckBox6For8 = new JCheckBox("<html>Составление заказных спецификаций</html>");
+    pecrCheckBox7For8 = new JCheckBox("<html>Составление объемов работ (для смет)</html>");
+    pecrCheckBox8For8 = new JCheckBox("<html>Проверка чертежей, расчетных материалов и выпуск проекта</html>");
+
+
+    percCheckBox1For4 = new JCheckBox("<html>Земляные работы</html>");
+    percCheckBox2For4 = new JCheckBox("<html>Фундаменты</html>");
+    percCheckBox3For4 = new JCheckBox("<html>Стены подвала</html>");
+    percCheckBox4For4 = new JCheckBox("<html>Стены этажей</html>");
+    percCheckBox5For4 = new JCheckBox("<html>Перекрытия</html>");
+    percCheckBox6For4 = new JCheckBox("<html>Кровля<html>");
+    percCheckBox7For4 = new JCheckBox("<html>Полы на грунте</html>");
+    percCheckBox8For4 = new JCheckBox("<html>Полы по перекрытиям<html>");
+    percCheckBox9For4 = new JCheckBox("<html>Лестницы<html>");
+    percCheckBox10For4 = new JCheckBox("<html>Перегородки<html>");
+    percCheckBox11For4 = new JCheckBox("<html>Проёмные заполнения<html>");
+    percCheckBox12For4 = new JCheckBox("<html>Внутренняя отделка, штукатурка, малярные работы<html>");
+    percCheckBox13For4 = new JCheckBox("<html>Разные работы, приямки, входы, антресоли, мусорокамеры и прочее<html>");
+
+
+    percCheckBox1For10 = new JCheckBox("<html>Отопление и вентиляци</html>");
+    percCheckBox2For10 = new JCheckBox("<html>Водопровод и канализация</html>");
+    percCheckBox3For10 = new JCheckBox("<html>Горячее водоснабжени</html>");
